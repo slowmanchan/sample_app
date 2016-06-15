@@ -1,0 +1,473 @@
+<!DOCTYPE html SYSTEM "">
+<!--[if lt IE 7]><html lang="en-CA" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html lang="en-CA" class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html lang="en-CA" class="no-js lt-ie9"><![endif]--><!--[if gt IE 8]><html lang="en-CA" class="no-js"><![endif]--><html lang="en-CA" class="no-js">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<base href="https://secure.tangerine.ca/web/en_CA/web/">
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-itunes-app" content="app-id=847844097">
+<meta name="msApplication-ID" content="TangerineBank.TangerineBank">
+<meta name="msApplication-PackageFamilyName" content="TangerineBank.TangerineBank_wr8y21pj9dftj">
+<script type="text/javascript" src="/dtagent633_bgjptx_1502.js" data-dtconfig="rid=RID_-1852224134|rpid=-304414779|domain=tangerine.ca|tp=500,50,3|bandwidth=1200|reportUrl=dynaTraceMonitor"></script><link rel="icon" href="../../favicon.ico">
+<link rel="shortcut icon" href="../../favicon.ico">
+<link rel="apple-touch-icon" sizes="72x72" href="../../images/bootstrap/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../../images/bootstrap/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../../images/bootstrap/touch-icon-ipad-retina.png">
+<link rel="apple-touch-icon" href="../../images/bootstrap/touch-icon-iphone.png">
+<link rel="stylesheet" href="/web/css/bootstrap/core.min.css">
+<link rel="stylesheet" href="/web/css/bootstrap/layout.css">
+<link rel="stylesheet" href="/web/css/bootstrap/module.css">
+<link rel="stylesheet" href="/web/css/bootstrap/state.css">
+<meta name="alias" content="http://www.tangerine.ca/">
+<meta name="author" content="Tangerine Bank">
+<meta name="COPYRIGHT" content="Copyright (c) 2014 Tangerine">
+<meta name="description" content="At Tangerine you never pay services fees. Your savings account earns a high rate of interest, requires no minimum balance, and your money is never locked in. Save Your Money with Tangerine. Our Loan Account and Mortgage products are industry leading, and investing options are available with our Mutual Funds. ">
+<meta name="FORMAT" content="text/html">
+<meta name="apple-itunes-app" content="app-id=847844097">
+<meta name="google-play-app" content="app-id=ca.tangerine.clients.tablet&amp;hl=en">
+<meta name="KEYWORDS" content="bank, banking, Canadian banks, financial services, Internet banking, electronic commerce, PC banking, ABM, telephone banking, business banking, business accounts, savings accounts, loans, mortgages, mutual funds, virtual bank, Virtual banking, great interest rates, Alternative banking, CDIC,ING, ING Bank, Web banking, GIC, RRSP, RSP,Performance, Save Your Money, Interac, Mastercard, Maestro, U.S. dollar, Cirrus">
+<meta name="TITLE" content="Tangerine">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="cache-control" content="no-cache, no-store">
+<noscript>
+<meta http-equiv="refresh" content="0; Url=en_CA/web/BrowserSettings.html">
+</noscript>
+<title>Tangerine bank: Statements</title>
+<link rel="stylesheet" href="../../css/bootstrap/eStatement-core.css">
+<link rel="stylesheet" href="../../css/bootstrap/eStatement.css">
+<script xmlns:xalan="http://xml.apache.org/xslt">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-3540540-1', 'auto');
+      ga('send', 'pageview');
+    </script><script>
+
+        
+        var killClick = function (evt) {
+          if (evt.srcElement && evt.srcElement.getAttribute('href') === '#') {
+            return false
+          }
+          if (evt.target && evt.target.href && evt.target.getAttribute('href') === '#') {
+            evt.preventDefault()
+          }
+         }
+         
+        if (window.addEventListener) {
+          window.addEventListener('click', killClick, false)
+        }
+        else {
+          document.attachEvent('onclick', killClick)
+        }        
+        
+      </script>
+</head>
+<body>
+<noscript>
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-PN6BP5" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function(w,d,s,l,i)
+		{w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+		var f=d.getElementsByTagName(s)
+		[0],
+		j=d.createElement(s),
+		dl=l!='dataLayer'?'&l='+l:'';
+		j.async=true;
+		j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+		f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-PN6BP5');</script>
+	
+		
+			
+			
+			
+			
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+
+<div class="eStatement">
+<header class="button-holder-container hidden-print">
+<div class="container">
+<div class="row-fluid">
+<div class="span12 button-holder">
+<a href="../../Tangerine.pdf?command=refreshEStatementListHTML&amp;MainFormAction=showEStatementAction&amp;FORMAT=PDF&amp;STMTID_PDF=0" class="btn btn-primary">Save as PDF</a><a href="javascript:window.print();" class="btn btn-primary">Print</a>
+</div>
+</div>
+</div>
+</header>
+<div class="container">
+<div class="content">
+<header class="eStatement-header">
+<div class="eStatement-logo">
+<img width="200" height="50" src="images/tangerine_lockup.svg" alt="Tangerine logo"></div>
+<h1>Statement</h1>
+<p>
+<strong>tangerine.ca</strong>
+</p>
+</header>
+<div class="orange-key">
+<div class="account-details-header">
+<p>May 01, 2016 to May 31, 2016<br>
+<strong>Client #51910842</strong>
+</p>
+<p>
+<b>Norman Chan</b>
+<br>93 CARLAW AVE<br>TORONTO ON  M4M 2R6<br>
+</p>
+<p>Your Orange Key is <strong>39895194S1</strong>
+</p>
+</div>
+</div>
+<div class="eStatement-section">
+<h2>Account(s) at a glance</h2>
+<div class="account-registration">
+<div class="row-fluid">
+<div class="span3">
+<p>
+<strong>Account registration</strong>
+</p>
+</div>
+<div class="span9">
+<p>Mr. Norman Chan <br> 
+</p>
+</div>
+</div>
+</div>
+<div class="scrollable-table-outer">
+<div class="scrollable-table-inner">
+<table class="table">
+<thead>
+<tr>
+<th class="scrollable-large">Account type</th><th class="scrollable-large">Account number</th><th class="scrollable-small"><span class="hidden-phone">Account</span> balance ($)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tangerine Chequing Account</td><td>4001482657</td><td>15,151.94</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="eStatement-section">
+<h2>Tangerine Chequing Account – 4001482657</h2>
+<div class="account-registeration">
+<div class="row-fluid">
+<div class="span3">
+<p>
+<strong>Current interest rate </strong>
+</p>
+</div>
+<div class="span9">
+<p>0.25%</p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span3">
+<p>
+<strong>Interest earned year to date </strong>
+</p>
+</div>
+<div class="span9">
+<p>$11.09</p>
+</div>
+</div>
+</div>
+<div class="scrollable-table-outer">
+<div class="scrollable-table-inner">
+<table class="table">
+<thead>
+<th class="span2 scrollable-date">Transaction date</th><th class="span6 scrollable-large">Transaction description</th><th class="span2 scrollable-small">Amount ($)</th><th class="span2 scrollable-small">Balance ($)</th>
+</thead>
+<tbody>
+<tr>
+<td>01 May 2016</td><td>Opening Balance</td><td>0.00</td><td>12,856.98</td>
+</tr>
+<tr>
+<td>03 May 2016</td><td>EFT From CANADA</td><td>764.00</td><td>13,620.98</td>
+</tr>
+<tr>
+<td>16 May 2016</td><td>EFT From CANADA</td><td>764.00</td><td>14,384.98</td>
+</tr>
+<tr>
+<td>31 May 2016</td><td>EFT From CANADA</td><td>764.00</td><td>15,148.98</td>
+</tr>
+<tr>
+<td>31 May 2016</td><td>Interest Paid</td><td>2.96</td><td>15,151.94</td>
+</tr>
+<tr>
+<td>31 May 2016</td><td>Closing Balance</td><td>0.00</td><td>15,151.94</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="eStatement-section">
+<footer class="eStatement-footer">
+<p>
+            Up to $100 of each cheque you deposit will be available for withdrawal once deposited. 
+            When using an ABM, please deposit each cheque in separate envelopes to gain access to these funds immediately.
+          </p>
+<p>
+          Nobody likes mistakes. If we made one, please call us at <nobr>1-888-464-3232</nobr> or <nobr>416-756-2424</nobr> so we can fix it.
+        </p>
+<p>
+        Prior to April 8, 2014, Tangerine Chequing Account was known as
+        THRiVE Chequing Account
+    </p>
+<div class="marketing-banner hidden-phone" data-toggle="injector" data-remote="https://www.tangerine.ca/images/en/e-statement/DEF.html"></div>
+</footer>
+</div>
+</div>
+</div>
+</div>
+	
+
+<script>
+      
+      var doCustomKeypress = false;
+    </script><script src="../../js/jquery/cookie.js" type="text/javascript"></script><script type="text/javascript">
+			var contentServer = 'https://www.tangerine.ca';
+			var campaignServer = 'https://api.tangerine.ca/mkt';
+			var campaignServerAppId = '61e5fffd-530e-4918-b821-cc5024f4f8b4';
+			var cookieDomain = '.tangerine.ca';
+			var secureCookie = 'true';
+		</script><script src="../../js/jquery/campaignOffers.js" type="text/javascript"></script>
+<meta xmlns:xalan="http://xml.apache.org/xslt" name="DCS.dcsaut" content="39895194S1">
+<meta xmlns:xalan="http://xml.apache.org/xslt" name="DCSext.locale" content="en_CA">
+<meta xmlns:xalan="http://xml.apache.org/xslt" name="DCSext.device" content="web">
+<meta xmlns:xalan="http://xml.apache.org/xslt" name="DCSext.flavour" content="web">
+<meta xmlns:xalan="http://xml.apache.org/xslt" name="WT.cg_n" content="MF">
+<meta xmlns:xalan="http://xml.apache.org/xslt" name="WT.cg_s" content="View">
+<meta xmlns:xalan="http://xml.apache.org/xslt" name="WT.si_n" content="MF_View">
+<meta xmlns:xalan="http://xml.apache.org/xslt" name="WT.si_p" content="eStatement">
+<script xmlns:xalan="http://xml.apache.org/xslt" src="../../securewtinit.js" type="text/javascript"></script><script xmlns:xalan="http://xml.apache.org/xslt" src="../../securewtbase.js" type="text/javascript"></script>
+<noscript xmlns:xalan="http://xml.apache.org/xslt">
+<div>
+<img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="https://info.tangerine.ca/dcsqfhp5v10000082npv8ae8i_1k4j/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2"></div>
+</noscript>
+<script xmlns:xalan="http://xml.apache.org/xslt" type="text/javascript">
+				if ((/iphone|ipod|ipad.*os 5/gi).test(navigator.appVersion)) {
+					window.onpageshow = function(evt) {
+					
+						if (evt.persisted) {
+							document.body.style.display = "none";
+							location.reload();
+						};
+					};
+				};
+		</script><script xmlns:xalan="http://xml.apache.org/xslt" type="text/javascript">
+				function invalidateBackCache() {
+					
+				};
+				if(window.addEventListener){
+					window.addEventListener("unload", invalidateBackCache, false);
+				};
+		</script><script xmlns:xalan="http://xml.apache.org/xslt" LANGUAGE="JavaScript">
+				function linkTracker(file, description){
+				
+						dcsMultiTrack(
+							'DCS.dcsuri', file,
+							'WT.ti',      description,
+							'DCS.dcsaut', '39895194S1');
+					
+				}
+				</script>
+<meta xmlns:xalan="http://xml.apache.org/xslt" http-equiv="Refresh" content="1560; URL=/web/InitialTangerine.html?command=displayLoginRegular&amp;device=web&amp;locale=en_CA&amp;timeout=1">
+<script>
+    // Global flags to enable / disable chat options
+    tangerineOptions = {
+	    isCobrowseEnabled: true,
+	    isSecureChatEnabled: true,
+	    isCallMeBackEnabled: true
+    };
+    </script>
+<link rel="stylesheet" href="/web/chat/chat.css">
+<script src="/web/chat/chat-window.js" type="text/javascript"></script><script src="/web/chat/gms_chat_2.js" type="text/javascript"></script><script type="text/javascript">  
+      		
+      		var chatServer = '/web/chat/tchat.html';
+      		
+      		var gms_url = 'https://api.tangerine.ca';
+			var gms_service = 'chat';
+			
+			var useGMSChatStr = 'false';
+			//var useGMSChat = (useGMSChatStr === 'true');
+			var useGMSChat = true;
+			
+			var chat_availability_rest_url = 'https://api.tangerine.ca/prd/v1/general/service-availability';
+			var chat_availability_appID   = '1c5e09e3-8d70-458f-bcd2-8d364ab4764e';
+			
+			var call_back_availability_rest_url = 'https://api.tangerine.ca/prd/v1/general/service-availability';
+			var call_back_availability_appID   = '1c5e09e3-8d70-458f-bcd2-8d364ab4764e';
+			
+			var call_me_back_url = 'https://api.tangerine.ca/evolution/callback';
+			
+			var kvp_environment = '';
+      		
+      		var kvp_objs = new Object();
+    		
+    		var kvp_objs_string = "";
+      		    
+    		$(function() {
+    			
+    			if (useGMSChat) {
+    			var theLanguage = $('html').prop('lang');
+    			kvp_objs.kvp_LanguageSelection =  theLanguage;
+    		
+    			var kvp_feature = $('meta[name="WT.cg_n"]').attr('content');
+    			kvp_objs.kvp_ChatWebContentGroup = kvp_feature;
+    			
+    			var kvp_function = $('meta[name="WT.cg_s"]').attr('content');
+    			kvp_objs.kvp_ChatWebContentSubGroup = kvp_function;
+    			
+    			var pathname = window.location.pathname; // Returns path only
+				var url      = window.location.href;     // Returns full URL
+    			kvp_objs.kvp_WebOriginPage = url;
+    			
+    			var kvp_referrer =  document.referrer;
+    			kvp_objs.kvp_ChatWebPreviousPage = kvp_referrer;
+    			
+    			var message = $("div.alert.alert-error errormessage").html();
+    			
+    			if (typeof message != 'undefined') {
+    				kvp_objs.kvp_ChatWebErrorCode = message;
+    				kvp_objs.kvp_ChatWebErrorCounter = "1";
+    			}
+    			else {
+    				kvp_objs.kvp_ChatWebErrorCode = "";
+    				kvp_objs.kvp_ChatWebErrorCounter = "0";
+    			}
+    			kvp_objs.kvp_ChatPlatform = "";
+    			kvp_objs.kvp_ChatSessionToken = "";
+    			
+    			kvp_objs.kvp_Environment = kvp_environment;
+    			
+    			kvp_objs.gms_url = gms_url;
+    			kvp_objs.gms_service = gms_service;
+    			
+			    kvp_objs.chat_availability_rest_url = chat_availability_rest_url;
+			    kvp_objs.chat_availability_appID = chat_availability_appID;
+			    
+			    kvp_objs.call_back_availability_rest_url = call_back_availability_rest_url;
+			    kvp_objs.call_back_availability_appID = call_back_availability_appID;
+
+			    kvp_objs.call_me_back_url = call_me_back_url;
+			    
+			   	
+				kvp_objs.serviceUrl = gms_url + "/evolution/" + gms_service;
+			    
+			    
+			    if (typeof check_chat_cookie !== "undefined") {
+			    	if (check_chat_cookie) {
+			    		if (cookieUtil.getCookie("chat_pt") !== null) {
+			    		
+			    			check_chat_cookie = false;
+			    			gms_chat_func.getSecurityToken(kvp_objs);
+			    			gms_chat_func.launchChatByCookie(kvp_objs);
+			    		}
+			    	}
+			    }	 
+    		
+    			}
+    		})
+    	</script><script>
+		(function(d, s, id, o) {
+			var _gcb = {debug: true};
+			var fs = d.getElementsByTagName(s)[0], e;
+	
+			if (d.getElementById(id)) return;
+	
+			e = d.createElement(s); e.id = id; e.src = o.src;
+			e.setAttribute('data-gcb-url', o.cbUrl);
+			fs.parentNode.insertBefore(e,fs);
+		
+			})(document, 'script', 'genesys-js', {
+				src:
+					'/web/cobrowse/gcb.min.js', 
+				cbUrl:
+					'https://share.tangerine.ca/evolution/cobrowse'
+			});
+
+		</script><script>
+        !function ($) {
+          if (Tangerine.utils.userAgentDetector.Mobile()) { 
+            $('input[data-toggle=autocomplete]').attr("autocomplete", "off false"); 
+          } 
+        }(window.jQuery);      
+      </script><script>
+      var touch = $('html').hasClass('touch') 
+      if (!doCustomKeypress && !touch) {
+        
+        $('input, select, .dropdown-toggle').not('[type=submit], .input-search').on('keypress', function(e){
+          var key = e.keyCode || e.which;
+          if ( key === 13 && $('.btn-primary').length ) {
+            e.preventDefault(); 
+            $('.btn-primary').not('[data-dismiss=modal], .btn-print-chat, .btn-send-message').last().trigger('click') 
+          }
+        })
+      }
+
+      
+      !function ($) {      
+        if (window.removeEventListener) {
+          window.removeEventListener('click', window.killClick, false)
+        }
+        else {
+          document.detachEvent('onclick', window.killClick)
+        }
+        window.killClick = null
+      }(window.jQuery)
+    </script>
+</body>
+</html>
